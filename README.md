@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Sakshi! 
 
-<!--
-**singhsakshi8696/singhsakshi8696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Computer Science Student** dedicated to building clean software applications, exploring database logic, and creating interactive front-end experiences.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Tech Stack & Tools
+- **Languages:** Python, C
+- **Databases:** PostgreSQL (PL/pgSQL)
+- **Web & Interface Design:** HTML5
+
+
+
+##  What I Do
+- **Software Development:** Crafting efficient backend logic and structural code.
+- **Web & Game Logic:** Designing engaging, interactive digital platforms and gamified learning concepts.
+- **Mentorship:** Simplifying complex analytical concepts into easy-to-understand structures.
+
+
+
+##  Current Focus
+- Deepening my knowledge in advanced data structures and database optimization.
+- Building elegant user interfaces that bring impactful ideas to life.
+
+_“Dedicated to transforming logical thinking into impactful digital solutions.”_
